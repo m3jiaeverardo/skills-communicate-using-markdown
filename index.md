@@ -13,4 +13,9 @@
 ###### h6, maybe
 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
 added header text samples
+
+added image using the following format: ![picture name here](URL link to image here)
